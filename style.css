@@ -12,12 +12,16 @@
 }
 
 .cartao {
-    width: 260px;
-    height: 200px;
+width: 260px;
+height: 320px;
 }
 
 .cartao-imagem {
-    width:100%
+padding-top: 10px;
+width: 100%;
+height: 280px;
+object-fit:cover;
+object-position:top;
 }
 
 body {
